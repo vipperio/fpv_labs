@@ -1,0 +1,47 @@
+[INFO] [1791896365.713987686] [flight_test]: Flight test node started
+[INFO] [1791896365.715330606] [flight_test]: Waiting for ArduPilot and ROS services...
+[INFO] [1791896366.651902657] [flight_test]: Start: (0.00, -0.00); Target: (-4.00, -0.20)
+[INFO] [1791896367.899706461] [flight_test]: ArduPilot and all services are available
+[INFO] [1791896368.094406036] [flight_test]: Running pre-arm check
+[INFO] [1791896368.117307033] [flight_test]: Pre-arm check passed: Vehicle is Armable
+[INFO] [1791896368.302451733] [flight_test]: Requesting flight mode 4
+[INFO] [1791896368.335225151] [flight_test]: GUIDED mode enabled
+[INFO] [1791896368.491969596] [flight_test]: Requesting motor arming
+[INFO] [1791896368.528785752] [flight_test]: Motors armed
+[INFO] [1791896368.693237006] [flight_test]: Requesting takeoff to 2.0 m
+[INFO] [1791896368.704647323] [flight_test]: Takeoff command accepted
+[INFO] [1791896368.705028238] [flight_test]: Hovering for 5.0 seconds
+[INFO] [1791896400.692461438] [flight_test]: Hover completed, starting navigation
+[INFO] [1791896400.893118224] [flight_test]: Position (0.00, -0.00), distance to target 4.01 m
+[INFO] [1791896402.091980563] [flight_test]: Position (-0.00, -0.00), distance to target 4.00 m
+[INFO] [1791896403.091987536] [flight_test]: Position (-0.02, -0.00), distance to target 3.98 m
+[INFO] [1791896404.292802866] [flight_test]: Position (-0.20, -0.01), distance to target 3.81 m
+[INFO] [1791896405.491438967] [flight_test]: Position (-0.43, -0.02), distance to target 3.57 m
+[INFO] [1791896406.493114869] [flight_test]: Position (-0.70, -0.04), distance to target 3.30 m
+[INFO] [1791896407.513636324] [flight_test]: Position (-0.91, -0.05), distance to target 3.09 m
+[INFO] [1791896408.691803980] [flight_test]: Position (-1.18, -0.07), distance to target 2.82 m
+[INFO] [1791896409.696041854] [flight_test]: Position (-1.39, -0.08), distance to target 2.62 m
+[INFO] [1791896410.892208646] [flight_test]: Position (-1.70, -0.09), distance to target 2.30 m
+[INFO] [1791896411.895029979] [flight_test]: Position (-1.87, -0.10), distance to target 2.13 m
+[INFO] [1791896413.092294000] [flight_test]: Position (-2.07, -0.11), distance to target 1.93 m
+[INFO] [1791896414.291519236] [flight_test]: Position (-2.31, -0.13), distance to target 1.69 m
+[INFO] [1791896415.291362632] [flight_test]: Position (-2.52, -0.13), distance to target 1.48 m
+[INFO] [1791896416.509483937] [flight_test]: Position (-2.75, -0.14), distance to target 1.25 m
+[INFO] [1791896417.692196991] [flight_test]: Position (-3.00, -0.15), distance to target 1.00 m
+[INFO] [1791896418.895675921] [flight_test]: Position (-3.21, -0.16), distance to target 0.80 m
+[INFO] [1791896420.091436583] [flight_test]: Position (-3.46, -0.17), distance to target 0.54 m
+[INFO] [1791896421.091641327] [flight_test]: Position (-3.63, -0.18), distance to target 0.37 m
+[INFO] [1791896422.092298220] [flight_test]: Position (-3.78, -0.19), distance to target 0.22 m
+[INFO] [1791896423.094590482] [flight_test]: Position (-3.86, -0.19), distance to target 0.14 m
+[INFO] [1791896423.095515988] [flight_test]: Target zone reached, stopping
+[INFO] [1791896424.094839715] [flight_test]: Position (-3.91, -0.20), distance to target 0.09 m
+[INFO] [1791896425.097124689] [flight_test]: Position (-3.94, -0.20), distance to target 0.06 m
+[INFO] [1791896425.098243759] [flight_test]: Start:  (0.001, -0.004)
+[INFO] [1791896425.098696588] [flight_test]: Target: (-3.999, -0.204)
+[INFO] [1791896425.099334455] [flight_test]: Actual: (-3.938, -0.201)
+[INFO] [1791896425.099683019] [flight_test]: Position error: 0.061 m. Starting landing
+[INFO] [1791896425.291796212] [flight_test]: Requesting flight mode 9
+[INFO] [1791896425.302264452] [flight_test]: LAND mode enabled
+[INFO] [1791896452.492292557] [flight_test]: Landing completed
+[INFO] [1791896452.492958366] [flight_test]: Final Gazebo altitude: -3.80 m
+[INFO] [1791896452.494608722] [flight_test]: Flight test completed successfully
