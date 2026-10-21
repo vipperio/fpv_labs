@@ -1,0 +1,19 @@
+[INFO] [1792147427.147224130] [flight_test]: Flight test node started
+[INFO] [1792147427.150996984] [flight_test]: Waiting for ArduPilot and ROS services...
+[INFO] [1792147427.154608174] [flight_test]: Start: (0.00, 0.00); Target: (-4.00, -0.20)
+[INFO] [1792147434.474971691] [flight_test]: ArduPilot and all services are available
+[INFO] [1792147434.676475419] [flight_test]: Running pre-arm check
+[INFO] [1792147434.703875917] [flight_test]: Pre-arm check passed: Vehicle is Armable
+[INFO] [1792147434.927915063] [flight_test]: Requesting flight mode 4
+[INFO] [1792147434.988427032] [flight_test]: GUIDED mode enabled
+[INFO] [1792147435.088895294] [flight_test]: Requesting motor arming
+[INFO] [1792147435.126253450] [flight_test]: Motors armed
+[INFO] [1792147435.278792437] [flight_test]: Requesting takeoff to 2.0 m
+[INFO] [1792147435.294704355] [flight_test]: Takeoff command accepted
+[INFO] [1792147435.297505869] [flight_test]: Hovering for 30.0 seconds
+[INFO] [1792147488.074870630] [flight_test]: Hover completed, starting landing
+[INFO] [1792147488.273472070] [flight_test]: Requesting flight mode 9
+[INFO] [1792147488.313243442] [flight_test]: LAND mode enabled
+[INFO] [1792147560.275057587] [flight_test]: Landing completed
+[INFO] [1792147560.276196707] [flight_test]: Final Gazebo altitude: 0.19 m
+[INFO] [1792147560.276680724] [flight_test]: Flight test completed successfully

@@ -1,0 +1,13 @@
+[INFO] [1791906384.071363787] [flight_test]: Flight test node started
+[INFO] [1791906384.072634626] [flight_test]: Waiting for ArduPilot and ROS services...
+[INFO] [1791906386.246597279] [flight_test]: ArduPilot and all services are available
+[INFO] [1791906386.447100385] [flight_test]: Running pre-arm check
+[INFO] [1791906386.515316645] [flight_test]: Pre-arm check passed: Vehicle is Armable
+[INFO] [1791906386.646909372] [flight_test]: Requesting flight mode 4
+[INFO] [1791906386.711471551] [flight_test]: GUIDED mode enabled
+[INFO] [1791906386.820707411] [flight_test]: Start: (0.00, -0.02); Target: (-4.00, -0.22)
+[INFO] [1791906386.846861517] [flight_test]: Requesting motor arming
+[INFO] [1791906386.883944551] [flight_test]: Motors armed
+[INFO] [1791906387.047145604] [flight_test]: Requesting takeoff to 2.0 m
+[INFO] [1791906387.057457907] [flight_test]: Takeoff command accepted
+[INFO] [1791906387.059589917] [flight_test]: Hovering for 30.0 seconds

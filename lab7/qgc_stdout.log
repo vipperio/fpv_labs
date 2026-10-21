@@ -1,0 +1,36 @@
+Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
+Settings location "/home/vipperio/.config/QGroundControl.org/QGroundControl.ini" Is writable?: true
+Filter rules "*Log.debug=false\nGStreamerAPILog.debug=true\nqt.qml.connections=false"
+System reported locale: QLocale(English, Latin, United States) ; Name "en_US" ; Preffered (used in maps):  "en-US"
+MAVLinkLogManagerLog: MAVLink logs directory: "/home/vipperio/Documents/QGroundControl/Logs"
+VideoReceiverLog: Stop called on empty URI
+VideoReceiverLog: Stop called on empty URI
+qt.network.ssl: QSslSocket: cannot resolve EVP_PKEY_base_id
+qt.network.ssl: QSslSocket: cannot resolve SSL_get_peer_certificate
+Ignoring ssl certificates due to OpenSSL version mismatch
+Map Cache in: "/home/vipperio/.cache/QGCMapCache300" / "qgcMapCache.db"
+qt.network.ssl: QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+setCurrentPlanViewSeqNum
+setCurrentPlanViewSeqNum
+qt.network.ssl: QSslSocket: cannot call unresolved function EVP_PKEY_base_id
+Adding target QHostAddress("127.0.0.1") 45949
+"v5.1.5"
+Ignoring ssl certificates due to OpenSSL version mismatch
+setCurrentPlanViewSeqNum
+setCurrentPlanViewSeqNum
+Ignoring ssl certificates due to OpenSSL version mismatch
+qt.network.ssl: QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+qt.network.ssl: QSslSocket: cannot call unresolved function EVP_PKEY_base_id
+setCurrentPlanViewSeqNum
+setCurrentPlanViewSeqNum
+qt.network.ssl: QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+TerrainQueryLog: Elevation tile fetching returned error ( QNetworkReply::SslHandshakeFailedError )
+qt.positioning.geoclue2: Unable to start the client: "org.freedesktop.DBus.Error.AccessDenied" "Geolocation disabled for UID 1000"
+QGCPositionManager error 0
+VideoReceiverLog: Stop called on empty URI
+VideoReceiverLog: Stop called on empty URI
+Quit event true
+Done
+VideoReceiverLog: Stop called on empty URI
+VideoReceiverLog: Stop called on empty URI
+After app delete

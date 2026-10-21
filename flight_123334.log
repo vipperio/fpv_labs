@@ -1,0 +1,6 @@
+[INFO] [1792146815.108119765] [flight_test]: Flight test node started
+[INFO] [1792146815.113009528] [flight_test]: Waiting for ArduPilot and ROS services...
+[INFO] [1792146815.234651325] [flight_test]: Start: (0.00, 0.00); Target: (-4.00, -0.20)
+[INFO] [1792146819.074621970] [flight_test]: ArduPilot and all services are available
+[INFO] [1792146819.272993260] [flight_test]: Running pre-arm check
+[ERROR] [1792146819.293859549] [flight_test]: Vehicle is not armable: Vehicle is Not Armable

@@ -1,0 +1,14 @@
+[INFO] [1791905885.611438084] [flight_test]: Flight test node started
+[INFO] [1791905885.613513511] [flight_test]: Waiting for ArduPilot and ROS services...
+[INFO] [1791905885.616949391] [flight_test]: Start: (0.00, 0.00); Target: (-4.00, -0.20)
+[INFO] [1791905885.791106042] [flight_test]: ArduPilot and all services are available
+[INFO] [1791905885.986660473] [flight_test]: Running pre-arm check
+[INFO] [1791905886.012981143] [flight_test]: Pre-arm check passed: Vehicle is Armable
+[INFO] [1791905886.186840887] [flight_test]: Requesting flight mode 4
+[INFO] [1791905886.247273866] [flight_test]: GUIDED mode enabled
+[INFO] [1791905886.389431780] [flight_test]: Requesting motor arming
+[INFO] [1791905886.492601913] [flight_test]: Motors armed
+[INFO] [1791905886.593274359] [flight_test]: Requesting takeoff to 2.0 m
+[INFO] [1791905886.629831095] [flight_test]: Takeoff command accepted
+[INFO] [1791905886.630514712] [flight_test]: Hovering for 30.0 seconds
+[ERROR] [1791905886.792124570] [flight_test]: Drone disarmed unexpectedly during flight

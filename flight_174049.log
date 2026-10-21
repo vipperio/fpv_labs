@@ -1,0 +1,12 @@
+[INFO] [1791906050.477070424] [flight_test]: Flight test node started
+[INFO] [1791906050.477688831] [flight_test]: Waiting for ArduPilot and ROS services...
+[INFO] [1791906050.499212679] [flight_test]: Start: (0.00, -0.01); Target: (-4.00, -0.21)
+[INFO] [1791906052.657824361] [flight_test]: ArduPilot and all services are available
+[INFO] [1791906052.859465245] [flight_test]: Running pre-arm check
+[INFO] [1791906052.867170303] [flight_test]: Pre-arm check passed: Vehicle is Armable
+[INFO] [1791906053.300156728] [flight_test]: Requesting flight mode 4
+[INFO] [1791906053.328676540] [flight_test]: GUIDED mode enabled
+[INFO] [1791906053.482527477] [flight_test]: Requesting motor arming
+[INFO] [1791906053.492365535] [flight_test]: Motors armed
+[INFO] [1791906053.665130722] [flight_test]: Requesting takeoff to 2.0 m
+[ERROR] [1791906053.682631659] [flight_test]: ArduPilot rejected the takeoff request
